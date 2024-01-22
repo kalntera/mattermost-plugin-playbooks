@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-playbooks/client
+module github.com/kalntera/mattermost-plugin-playbooks/client
 
 go 1.19
 
